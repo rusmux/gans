@@ -1,1 +1,1 @@
-# GANS
+# Generative Adversarial Networks
